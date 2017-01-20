@@ -10,7 +10,7 @@
 4. Generates required SSL certificates for your server (Required to get your application published)
 
 ### Use: 
-1. Create a new server like ubuntu 14.04 lts or similar. 
+1. SSH into an Ubuntu server you wish to use. Navigate to the root. `cd /root` and grab this file 'git clone https://github.com/joecodecreations/alexa-automation-setup.git'
 2. run `sh alexa-server-setup.sh`
 
 We'll handle the rest! 
